@@ -1,0 +1,79 @@
+body{
+
+	background-image: url("../images/questionsimage.jpg");
+	
+}
+
+.container{
+
+	margin-top: 20px;
+	background-color: #8cb3d9;
+	height: 800px;
+	text-align: center;
+	
+}
+
+.page-header{
+
+	text-align: center;
+}
+
+
+.btncontainer{
+
+	margin-top: 200px;
+	text-align: center;
+
+
+}
+
+.start {
+	width: 50%;
+	margin-top: 100px;
+	font-size: 20px;
+}	
+
+.startover{
+	width: 50%;
+	margin-top: 100px;
+	font-size: 20px;
+
+}
+
+.qcontainer{
+
+	margin-top: 20px;
+	text-align: center;
+	font-size: 25px;
+	
+}
+
+.options-set{
+
+	padding: 10px;
+	margin : 10px;
+
+
+}
+
+.optionbtn{
+
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+	font-size: 20px;
+}
+
+.timerclass{
+
+	font-size: 25px;
+
+}
+
+p{
+	font-size: 30px;
+}
+
+
+
+ 
